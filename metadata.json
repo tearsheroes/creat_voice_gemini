@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Gemini Voice Studio - Trợ Lý Tạo Giọng Nói AI",
+  "description": "Ứng dụng chuyển đổi văn bản thành giọng nói chất lượng cao bằng Gemini TTS, tùy chỉnh âm sắc, kịch bản đa nhân vật, tinh chỉnh văn bản AI và xuất âm thanh đa định dạng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
